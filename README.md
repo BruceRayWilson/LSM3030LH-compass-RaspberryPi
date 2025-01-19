@@ -1,10 +1,10 @@
-# LSM3030LH-compass-RaspberryPi
+# LSM303DLH-compass-RaspberryPi
 
-DF Robot LSM3030LH compass software for Raspberry Pi (Tested on Pi 5)
+DF Robot LSM303DLH compass software for Raspberry Pi (Tested on Pi 5)
 
 ## Background
 
-Adafruit LSM3030DLH software has been re-purposed to drive the DF Robot LSM3030LH.
+Adafruit LSM303DLH software has been re-purposed to drive the DF Robot LSM303DLH.
 
 ## Change
 
